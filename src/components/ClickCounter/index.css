@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.container {
+  background-color: white;
+  max-width: 700px;
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.span1 {
+  color: yellow;
+}
+.btn1 {
+  background-color: blue;
+  color: white;
+  max-width: 100px;
+  max-height: 30px;
+}
